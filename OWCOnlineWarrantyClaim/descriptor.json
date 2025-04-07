@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "89435b7b-369f-463e-a208-182107af064f",
+    "Name": "OWCOnlineWarrantyClaim",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/OWCOnlineWarrantyClaim.csproj",
+    "DependsOn": []
+  }
+}

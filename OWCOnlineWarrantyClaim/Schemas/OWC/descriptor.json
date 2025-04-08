@@ -2,9 +2,8 @@
   "Descriptor": {
     "UId": "eeff5447-4ba0-47cd-b836-9459595a794d",
     "Name": "OWC",
-    "ModifiedOnUtc": "\/Date(1743790486000)\/",
-    "ManagerName": "ProcessSchemaManager",
-    "Caption": "Dummy process",
-    "DependsOn": []
+    "ModifiedOnUtc": "\/Date(1744030594000)\/",
+    "ManagerName": "ProcessSchemaManagers",
+    "Caption": "Dummy process1"
   }
 }

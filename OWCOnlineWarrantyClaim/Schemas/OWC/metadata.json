@@ -1,7 +1,7 @@
 {
   "MetaData": {
     "Schema": {
-      "ManagerName": "ProcessSchemaManager",
+      "ManagerName": "ProcessSchemaManagers",
       "UId": "eeff5447-4ba0-47cd-b836-9459595a794d",
       "A2": "OWC",
       "A5": "b2b80283-c8f9-4a21-a9e1-9c461d69854f",
@@ -39,6 +39,7 @@
           "A5": "89435b7b-369f-463e-a208-182107af064f",
           "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
           "BL8": "eeff5447-4ba0-47cd-b836-9459595a794d",
+          "BM1": 0,
           "BM4": [
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
@@ -73,7 +74,8 @@
           "BL8": "eeff5447-4ba0-47cd-b836-9459595a794d",
           "BN2": "31;31",
           "BO3": true,
-          "FC1": []
+          "FC1": [],
+          "ED1": false
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",

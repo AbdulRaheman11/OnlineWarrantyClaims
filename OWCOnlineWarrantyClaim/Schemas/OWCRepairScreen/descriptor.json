@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "16d20d95-ceb6-4397-b929-e7a5de74477f",
+    "Name": "OWCRepairScreen",
+    "ModifiedOnUtc": "\/Date(1745227918000)\/",
+    "Parent": {
+      "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
+      "Name": "PageWithTabsAndProgressBarTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Repair Screen",
+    "DependsOn": []
+  }
+}

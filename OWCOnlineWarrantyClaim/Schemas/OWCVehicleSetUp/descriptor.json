@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "86b840a4-d1ba-4fc1-aeab-807e2fbaaab3",
+    "Name": "OWCVehicleSetUp",
+    "ModifiedOnUtc": "\/Date(1745238147000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Vehicle SetUp",
+    "DependsOn": []
+  }
+}

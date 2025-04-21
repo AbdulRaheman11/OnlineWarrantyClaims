@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Repair Line Info" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Repair Line Info" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Repair Order Info" />
+		</Items>
+	</Group>
+</Resources>

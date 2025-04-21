@@ -1,0 +1,264 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "02ea3b84-53d2-4df8-8876-4ff18f6a7c5a"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EU"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Spain"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "ESP"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "16fd54be-ea50-4dd5-b695-4b7a02e138b0"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Saudi Arabia"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "SAU"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "35c7d01e-d456-470e-a7e2-f104cbdaa086"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Australia"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "AUS"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "44396f75-357a-4a57-9191-36dac813d050"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Israel"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "ISR"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "67133500-bcde-4007-8e88-9258753484ef"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EU"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Italy"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "ITA"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "679a2e31-2999-4443-be48-e8f697d28397"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "NA"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "United States of America"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "USA"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6ca04200-70f2-4c12-9ee0-3e0952e47813"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EU"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Netherlands"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "NLD"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7631314a-7f0d-4961-9546-888a5b830765"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "NA"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Mexico"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "MEX"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9f58370b-a1f6-4390-8ffc-170a0dc64aef"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "NA"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Canada"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "CAN"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ec9335a0-de90-4efe-b05d-8090bc10e6ad"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Lebanon"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "LBN"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f62fa173-ca7b-4722-9bb1-5f6c10f4bd53"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EU"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "United Kingdom"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "GBR"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fa17721b-1648-4ee8-bf6c-56c5a1398a44"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EU"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "Germany"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "GER"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fe641c88-d5a5-4201-a5df-f6f2f514508f"
+        },
+        {
+          "SchemaColumnUId": "306abc7a-7814-b995-f7ef-aec09bff270f",
+          "Value": "EU"
+        },
+        {
+          "SchemaColumnUId": "5984ae53-b33d-d290-631a-224a7ee9890d",
+          "Value": "France"
+        },
+        {
+          "SchemaColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+          "Value": "FRA"
+        }
+      ]
+    }
+  ]
+}

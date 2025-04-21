@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a54193e2-cb2d-4350-89da-22a24dfc18c7",
+    "Name": "OWCOnlineWarrantyClaim_Detail",
+    "ModifiedOnUtc": "\/Date(1745238147000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "OnlineWarrantyClaims detail",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Strona z zakładkami z paskiem postępu" />
+			<Item Name="Caption" Value="To Run Repair Process" />
+		</Items>
+	</Group>
+</Resources>

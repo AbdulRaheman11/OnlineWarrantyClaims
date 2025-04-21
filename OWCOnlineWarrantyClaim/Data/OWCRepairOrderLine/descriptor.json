@@ -1,0 +1,224 @@
+﻿{
+  "Descriptor": {
+    "UId": "425058eb-1d4d-2027-592e-d1adfc56343f",
+    "Name": "OWCRepairOrderLine",
+    "ModifiedOnUtc": "\/Date(1744896698000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "1b9defe1-d399-4b9f-99d5-61a758d12e7f",
+      "Name": "OWCRepairOrderLine"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "d47a835b-89e3-21ff-f9b7-616a4b8f7ae3",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCInstallDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "ba5d6230-a413-7697-8e61-040670dad3c6",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCOriginalROInvoiceNumber",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "58a869c9-cbe5-24b0-40b0-b3f58d46914e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCClaimType",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "00e1b528-bea4-96fd-66f2-b68423085f3a",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCApprovalCode1",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "b6b27194-30a9-d859-54bd-dd11c167fc5d",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCRepairOrderNumber",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "55b92622-7457-dcab-03ff-4cbe269b95cc",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCConditionCode",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "69827d48-a249-fea8-12c3-d02747e73d86",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCCarrierDeliveryDocumentNumber",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "233d4f13-a67e-4140-911c-8b476d035702",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCFleetApprovedAmount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "db1f1111-175d-78f9-0676-93994e684185",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCCustomerConcernCode",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "afa03a92-2ac0-ebe3-24dc-6e71d09d28f9",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCSubCode",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "a8e38174-a26e-576b-83b2-3f43a099a5ed",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCRepairLineNumber",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "44136235-49a9-2cd2-a44a-92a75340546e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCCustomerParticipation",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "196f80dc-4263-87b8-b617-86dd28e358a6",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCRepairLineCompletionDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "63b41ab0-3b73-049e-efe8-5024a35b84f9",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCDealerParticipation",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "cae7c1e6-d730-6029-5aeb-5bb9c0a03566",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCDriverCardID",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "6d0de09e-583e-6579-c8eb-2214c23ac3c9",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCApprovalCode2",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "56609b31-26ea-e72d-83b5-c470ddc6e794",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCOdometerreadingatRepairCompletion",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "f32495de-1b3d-5b4f-4aae-81caafadcfe2",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCDriverName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "6e61ffe4-a438-de51-4f54-227bc306d42a",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCFieldServiceActionOptioncode",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "a53206f3-76ef-612d-cb57-bd5a25a3066c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCFranchiseVehicle",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "5c5069a9-ec0d-29b5-8b30-134c9029cfaf",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCFleetCOName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "dc2dbaf7-689d-1da4-617a-658fc60d8524",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCLicenseNumber",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "c1c08264-90ab-d067-1fec-d481d182435a",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCFleetPONo",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "663aebbe-93b8-ab39-bd61-893c9a419fd7",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCConvoyDeliveryDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "89df3476-a72d-26f6-7139-b319f3e743cc",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCEngineOperatingHoursatRepairCompletion",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ab5b7a55-4093-b0b4-9630-325ee6694ee1",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCElapsedOdometer",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "af6fe51a-3ea8-6423-8248-8005d3b9750c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCCarrierCode",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "abdede38-91ca-b7c7-0e78-f0330f8b120c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCPreDefinedRepairCode",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "36e9ff9a-2ba7-b616-7fe8-d16e2120e79c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCRelatedDamageIndicator",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Dealer SetUp" />
+			<Item Name="Columns.OWCAddress1.Caption" Value="Address 1" />
+			<Item Name="Columns.OWCAddress2.Caption" Value="Address 2" />
+			<Item Name="Columns.OWCAOR.Caption" Value="AOR" />
+			<Item Name="Columns.OWCCity.Caption" Value="City" />
+			<Item Name="Columns.OWCClaimType.Caption" Value="Claim Type" />
+			<Item Name="Columns.OWCCountry.Caption" Value="Country" />
+			<Item Name="Columns.OWCDealerCode.Caption" Value="Dealer Code" />
+			<Item Name="Columns.OWCDealerName.Caption" Value="Dealer Name" />
+			<Item Name="Columns.OWCDealerPACode.Caption" Value="Dealer PA Code" />
+			<Item Name="Columns.OWCPartNumber.Caption" Value="Part Number" />
+			<Item Name="Columns.OWCState.Caption" Value="State" />
+			<Item Name="Columns.OWCSuffix.Caption" Value="Suffix" />
+			<Item Name="Columns.OWCUOM.Caption" Value="UOM" />
+			<Item Name="Columns.OWCUserName.Caption" Value="User Name" />
+			<Item Name="Columns.OWCZipCode.Caption" Value="Zip Code" />
+		</Items>
+	</Group>
+</Resources>

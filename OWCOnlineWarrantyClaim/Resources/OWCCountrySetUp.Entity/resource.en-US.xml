@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Country SetUp" />
+			<Item Name="Columns.OWCContinentCode.Caption" Value="Continent Code" />
+			<Item Name="Columns.OWCCountryCode.Caption" Value="Country Code" />
+			<Item Name="Columns.OWCCountryName.Caption" Value="Country Name" />
+		</Items>
+	</Group>
+</Resources>

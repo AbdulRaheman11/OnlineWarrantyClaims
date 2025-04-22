@@ -10,7 +10,13 @@
   "HelpLink": "",
   "OrderLink": "",
   "SupportEmail": "",
-  "DependsOn": [],
+  "DependsOn": [
+    {
+      "Type": 0,
+      "Code": "CrtCustomer360App",
+      "Version": "1.9.8"
+    }
+  ],
   "Code": "OWCOnlineWarrantyClaim",
   "Packages": [
     {

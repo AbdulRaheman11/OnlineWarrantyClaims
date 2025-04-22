@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Pagina a schede con barra di avanzamento" />
+			<Item Name="Caption" Value="To Run Repair Process" />
+		</Items>
+	</Group>
+</Resources>

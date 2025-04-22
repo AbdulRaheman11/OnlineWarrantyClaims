@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="İlerleme çubuğuna sahip sekmeli sayfa" />
+			<Item Name="Caption" Value="To Run Repair Process" />
+		</Items>
+	</Group>
+</Resources>

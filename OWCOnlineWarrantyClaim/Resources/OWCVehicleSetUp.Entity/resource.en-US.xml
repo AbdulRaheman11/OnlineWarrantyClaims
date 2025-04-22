@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Vehicle SetUp" />
+			<Item Name="Columns.OWCAirConditioningDescription.Caption" Value="Air Conditioning Description" />
+			<Item Name="Columns.OWCBodyDescription.Caption" Value="Body Description" />
+			<Item Name="Columns.OWCDeliveryDate.Caption" Value="Delivery Date" />
+			<Item Name="Columns.OWCDemoDate.Caption" Value="Demo Date" />
+			<Item Name="Columns.OWCEngineDescription.Caption" Value="Engine Description" />
+			<Item Name="Columns.OWCGrossVehicleWeightDescription.Caption" Value="Gross Vehicle Weight Description" />
+			<Item Name="Columns.OWCModelYear.Caption" Value="Model Year" />
+			<Item Name="Columns.OWCOrderingDealerCountry.Caption" Value="Ordering Dealer Country" />
+			<Item Name="Columns.OWCPaintDescription.Caption" Value="Paint Description" />
+			<Item Name="Columns.OWCPowerSteeringDescription.Caption" Value="Power Steering Description" />
+			<Item Name="Columns.OWCProductionDate.Caption" Value="Production Date" />
+			<Item Name="Columns.OWCSaleDate.Caption" Value="Sale Date" />
+			<Item Name="Columns.OWCSelliingDealerCountry.Caption" Value="Selliing Dealer Country" />
+			<Item Name="Columns.OWCTransmissionDescription.Caption" Value="Transmission Description" />
+			<Item Name="Columns.OWCVehicleDartsModelCode.Caption" Value="Vehicle Darts Model Code" />
+			<Item Name="Columns.OWCVehicleLine.Caption" Value="Vehicle Line" />
+			<Item Name="Columns.OWCVIN.Caption" Value="VIN" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "c72f2fde-c157-4334-95c3-6f3e4327a955",
+      "A2": "OWCOnlineWarrantyClaimRelatedPage",
+      "A5": "14909bdb-b61c-49ac-b859-2c7e1f3c24d6",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "8bc48455-e0b8-4457-b8f3-eb7432c020eb",
+      "B8": "8.2.2.1870",
+      "AD1": "b258bf2f-3599-499f-a56f-2d70f2bc099a",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "58eb44ee-ed22-55c1-444a-623894792ae0",
+      "PageSchemaUId": "b67e2936-7d56-48fe-861e-cbf66c020514",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

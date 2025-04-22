@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Repair Order" />
+			<Item Name="Columns.OWCContractEndDate.Caption" Value="Contract End Date" />
+			<Item Name="Columns.OWCEngineOperatingHoursatROOpen.Caption" Value="Engine Operating Hours at RO Open" />
+			<Item Name="Columns.OWCLicenseState.Caption" Value="License State" />
+			<Item Name="Columns.OWCOdometerReadingatROOpen.Caption" Value="Odometer Reading at RO Open" />
+			<Item Name="Columns.OWCRepairOrderNumber.Caption" Value="Repair Order Number" />
+			<Item Name="Columns.OWCRepairOrderOpenDate.Caption" Value="Repair Order Open Date" />
+			<Item Name="Columns.OWCServiceAdvisorID.Caption" Value="Service Advisor ID" />
+			<Item Name="Columns.OWCSpecialUseVehicleDescription.Caption" Value="Special Use Vehicle Description" />
+			<Item Name="Columns.OWCVehicle.Caption" Value="Vehicle" />
+			<Item Name="Columns.OWCVIN.Caption" Value="VIN" />
+		</Items>
+	</Group>
+</Resources>

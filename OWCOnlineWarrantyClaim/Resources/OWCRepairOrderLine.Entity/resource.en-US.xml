@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Repair Order Line" />
+			<Item Name="Columns.OWCApprovalCode1.Caption" Value="Approval Code 1" />
+			<Item Name="Columns.OWCApprovalCode2.Caption" Value="Approval Code 2" />
+			<Item Name="Columns.OWCCarrierCode.Caption" Value="Carrier Code" />
+			<Item Name="Columns.OWCCarrierDeliveryDocumentNumber.Caption" Value="Carrier Delivery Document Number" />
+			<Item Name="Columns.OWCClaimType.Caption" Value="Claim Type" />
+			<Item Name="Columns.OWCConditionCode.Caption" Value="Condition Code" />
+			<Item Name="Columns.OWCConvoyDeliveryDate.Caption" Value="Convoy Delivery Date" />
+			<Item Name="Columns.OWCCustomerConcernCode.Caption" Value="Customer Concern Code" />
+			<Item Name="Columns.OWCCustomerParticipation.Caption" Value="Customer Participation" />
+			<Item Name="Columns.OWCDealerParticipation.Caption" Value="Dealer Participation" />
+			<Item Name="Columns.OWCDriverCardID.Caption" Value="Driver Card ID" />
+			<Item Name="Columns.OWCDriverName.Caption" Value="Driver Name" />
+			<Item Name="Columns.OWCElapsedOdometer.Caption" Value="Elapsed Odometer" />
+			<Item Name="Columns.OWCEngineOperatingHoursatRepairCompletion.Caption" Value="Engine Operating Hours at Repair Completion" />
+			<Item Name="Columns.OWCFieldServiceActionOptioncode.Caption" Value="Field Service Action Option code" />
+			<Item Name="Columns.OWCFleetApprovedAmount.Caption" Value="Fleet Approved Amount" />
+			<Item Name="Columns.OWCFleetCOName.Caption" Value="Fleet CO Name" />
+			<Item Name="Columns.OWCFleetPONo.Caption" Value="Fleet PO No" />
+			<Item Name="Columns.OWCFranchiseVehicle.Caption" Value="Franchise Vehicle" />
+			<Item Name="Columns.OWCInstallDate.Caption" Value="Install Date" />
+			<Item Name="Columns.OWCLicenseNumber.Caption" Value="License Number" />
+			<Item Name="Columns.OWCOdometerreadingatRepairCompletion.Caption" Value="Odometer reading at Repair Completion" />
+			<Item Name="Columns.OWCOriginalROInvoiceNumber.Caption" Value="Original / RO Invoice Number" />
+			<Item Name="Columns.OWCPreDefinedRepairCode.Caption" Value="Pre-Defined Repair Code" />
+			<Item Name="Columns.OWCRelatedDamageIndicator.Caption" Value="Related Damage Indicator" />
+			<Item Name="Columns.OWCRepairLineCompletionDate.Caption" Value="Repair Line Completion Date" />
+			<Item Name="Columns.OWCRepairLineNumber.Caption" Value="Repair Line Number" />
+			<Item Name="Columns.OWCRepairOrderNumber.Caption" Value="Repair Order Number" />
+			<Item Name="Columns.OWCSubCode.Caption" Value="Sub Code" />
+		</Items>
+	</Group>
+</Resources>

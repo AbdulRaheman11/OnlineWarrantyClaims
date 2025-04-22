@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Dealer Screen" />
+			<Item Name="LocalizableStrings.addRecord_dprilhg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Dealer Information-Repair Order" />
+			<Item Name="LocalizableStrings.Label_b7ejkgn_caption.Value" Value="Dealer Information" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Dealer Information" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Next" />
+		</Items>
+	</Group>
+</Resources>

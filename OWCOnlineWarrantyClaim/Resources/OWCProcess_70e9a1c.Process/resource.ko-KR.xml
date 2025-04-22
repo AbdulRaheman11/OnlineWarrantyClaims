@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="진행 표시줄이 있는 탭 페이지" />
+			<Item Name="Caption" Value="To Run Repair Process" />
+		</Items>
+	</Group>
+</Resources>

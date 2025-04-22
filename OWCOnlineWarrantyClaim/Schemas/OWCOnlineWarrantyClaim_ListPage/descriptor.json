@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a1cbc7dd-759e-4839-9f7d-115f917d20a9",
+    "Name": "OWCOnlineWarrantyClaim_ListPage",
+    "ModifiedOnUtc": "\/Date(1745238147000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "OnlineWarrantyClaims list page",
+    "DependsOn": []
+  }
+}

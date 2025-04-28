@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="從屬對象" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="父級版本欄的預設值" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="用於刪除記錄的篩選器" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="父級版本和從屬物件的欄之間的連接" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="篩選以選擇多行" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="所有欄位均為必填" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="從屬對像中的必填欄位" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="篩選以選擇單行" />
+		</Items>
+	</Group>
+</Resources>

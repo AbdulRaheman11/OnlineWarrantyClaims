@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c50a935a-ea67-4010-a6de-ced9822027c2",
+    "Name": "OWCDealerSetUpBusinessRule",
+    "ModifiedOnUtc": "\/Date(1745550529000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Dealer SetUp (Business rules)",
+    "DependsOn": []
+  }
+}

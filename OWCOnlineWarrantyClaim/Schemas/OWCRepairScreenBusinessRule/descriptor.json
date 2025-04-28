@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "83296116-8cd1-4973-9ff9-111e3da695e7",
+    "Name": "OWCRepairScreenBusinessRule",
+    "ModifiedOnUtc": "\/Date(1745579606000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Repair Screen (Business rules)",
+    "DependsOn": []
+  }
+}

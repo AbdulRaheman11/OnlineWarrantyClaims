@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e88c9d4f-16f5-44f0-8dae-b4b9da6722ee",
+    "Name": "OWCCountryPartsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1745476549000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Country Parts (Page settings)",
+    "DependsOn": []
+  }
+}

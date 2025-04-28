@@ -1,0 +1,120 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "83296116-8cd1-4973-9ff9-111e3da695e7",
+      "A2": "OWCRepairScreenBusinessRule",
+      "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "8bc48455-e0b8-4457-b8f3-eb7432c020eb",
+      "B8": "8.2.3.1351",
+      "AD1": "16d20d95-ceb6-4397-b929-e7a5de74477f",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "51b6b4ff-ea18-8ddd-b9ab-d2bc50189569",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "0c0b2f60-1a5b-47e4-4d33-293214a72e60",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+                  "UId": "ae872b4a-f0e4-8a85-8b02-56d1bf351fb0",
+                  "BGC1": 2,
+                  "BGC2": [
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "e07f38c4-1536-0190-bf27-f57305615c24",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "21ec5cc5-5856-311f-8bc2-8893d3d87ac5",
+                        "BRE1": "Lookup",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "OWCRepairOrderDS_OWCVINNumber_kp98g6b"
+                      }
+                    },
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "b85758a6-32ad-3e8d-dc0d-cfa01bfd41ef",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "4adcfcce-8e82-4994-ea0e-f285e943f1b5",
+                        "BRE1": "Lookup",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "OWCRepairOrderDS_OWCVehicleName_au84q2y"
+                      }
+                    },
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "2dee7267-5887-64d5-6ca7-e7207f81bc98",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "1b5780ed-7bea-ff56-819d-652dc9f73926",
+                        "BRE1": "MediumText",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "OWCRepairOrderDS_OWCRepairOrderNumber_d7pgrxj"
+                      }
+                    },
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "cfa9f6a2-26e8-9407-6522-48f68dcde79e",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "fddf960b-4d4a-844c-178a-f10b6c77723b",
+                        "BRE1": "Date",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "OWCRepairOrderDS_OWCRepairOrderOpenDate_e4bha8v"
+                      }
+                    }
+                  ]
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionRequiredElement",
+                    "UId": "163cded9-f944-9dc5-e8b8-5612d5d43b70",
+                    "BRA4": "VINNumber,VehicleName,RepairOrderOpenDate,RepairOrderNumber"
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "b1d6d495-cce7-79d7-c078-d0c377eff417",
+                "BRT2": 2
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "5ac82cf1-5b37-a791-d302-de176dbeb458",
+                "BRT1": "OWCRepairOrderDS_OWCVINNumber_kp98g6b"
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "6bcbc6b2-6ee2-e5b0-d14b-0cbab2987429",
+                "BRT1": "OWCRepairOrderDS_OWCVehicleName_au84q2y"
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "ede4b46e-0b1f-d55c-618d-7f8c95831ca3",
+                "BRT1": "OWCRepairOrderDS_OWCRepairOrderNumber_d7pgrxj"
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "e9267ed8-03a5-da99-feb0-817710680f20",
+                "BRT1": "OWCRepairOrderDS_OWCRepairOrderOpenDate_e4bha8v"
+              }
+            ],
+            "BR3": "BusinessRule_e6f56fb"
+          }
+        ]
+      }
+    }
+  }
+}

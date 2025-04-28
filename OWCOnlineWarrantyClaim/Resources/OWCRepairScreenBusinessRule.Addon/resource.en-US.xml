@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.51b6b4ff-ea18-8ddd-b9ab-d2bc50189569.Caption" Value="Make elements required: 4" />
+			<Item Name="Caption" Value="Repair Screen (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

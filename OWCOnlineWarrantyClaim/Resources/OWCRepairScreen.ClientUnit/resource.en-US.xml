@@ -3,10 +3,22 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Repair Screen" />
+			<Item Name="LocalizableStrings.addRecord_bfdceyl_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_em3bvn9_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_gtsp5dr_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ixi43be_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_6tagjm8_caption.Value" Value="Back" />
 			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Claim Entry Information" />
+			<Item Name="LocalizableStrings.Label_hyobih9_caption.Value" Value="Dealer Name:" />
+			<Item Name="LocalizableStrings.Label_tlu13ot_caption.Value" Value="Repair Line Details:" />
 			<Item Name="LocalizableStrings.NextButton_caption.Value" Value="Next" />
 			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Repair Order" />
 			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Save" />
+			<Item Name="LocalizableStrings.SaveButton_clicked_params_messageTextAfterCompletion.Value" Value="VIN data saved successfully." />
+			<Item Name="LocalizableStrings.SetRecordRightsButton_caption.Value" Value="Set up access rights" />
+			<Item Name="LocalizableStrings.VehicleName_placeholder.Value" Value="Select..." />
+			<Item Name="LocalizableStrings.VIN_Cancel_Button_caption.Value" Value="Cancel" />
+			<Item Name="LocalizableStrings.VINNumber_placeholder.Value" Value="Select..." />
 		</Items>
 	</Group>
 </Resources>

@@ -1,11 +1,20 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/Activity/Activity.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/Contact/Contact.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/Contact/Contact.cs')" />
 		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWC/OWC.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWC/OWC.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCClaimType/OWCClaimType.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCClaimType/OWCClaimType.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCCountryParts/OWCCountryParts.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCCountryParts/OWCCountryParts.cs')" />
 		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCCountrySetUp/OWCCountrySetUp.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCCountrySetUp/OWCCountrySetUp.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCDealerCode/OWCDealerCode.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCDealerCode/OWCDealerCode.cs')" />
 		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCDealerSetUp/OWCDealerSetUp.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCDealerSetUp/OWCDealerSetUp.cs')" />
 		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCOnlineWarrantyClaim/OWCOnlineWarrantyClaim.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCOnlineWarrantyClaim/OWCOnlineWarrantyClaim.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCPartsInfo/OWCPartsInfo.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCPartsInfo/OWCPartsInfo.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCPartsList/OWCPartsList.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCPartsList/OWCPartsList.cs')" />
 		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCRepairOrder/OWCRepairOrder.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCRepairOrder/OWCRepairOrder.cs')" />
 		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCRepairOrderLine/OWCRepairOrderLine.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCRepairOrderLine/OWCRepairOrderLine.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCVehicleName/OWCVehicleName.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCVehicleName/OWCVehicleName.cs')" />
 		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCVehicleSetUp/OWCVehicleSetUp.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCVehicleSetUp/OWCVehicleSetUp.cs')" />
+		<Compile Include="$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCVIN/OWCVIN.cs" Condition="Exists('$(PkgPath)/OWCOnlineWarrantyClaim/Schemas/OWCVIN/OWCVIN.cs')" />
 	</ItemGroup>
 </Project>

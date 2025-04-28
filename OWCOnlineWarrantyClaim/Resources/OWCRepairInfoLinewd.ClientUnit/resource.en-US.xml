@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RepairLineInfo" />
+			<Item Name="LocalizableStrings.addRecord_vt5rbny_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_weiwysa_caption.Value" Value="Next" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Repair Line Information" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Repair Line Information" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Save" />
+			<Item Name="LocalizableStrings.SetRecordRightsButton_caption.Value" Value="Set up access rights" />
+		</Items>
+	</Group>
+</Resources>

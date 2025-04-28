@@ -6,10 +6,12 @@
 			<Item Name="Columns.OWCAddress1.Caption" Value="Address 1" />
 			<Item Name="Columns.OWCAddress2.Caption" Value="Address 2" />
 			<Item Name="Columns.OWCAOR.Caption" Value="AOR" />
+			<Item Name="Columns.OWCApplicant.Caption" Value="Dealer Name" />
 			<Item Name="Columns.OWCCity.Caption" Value="City" />
 			<Item Name="Columns.OWCClaimType.Caption" Value="Claim Type" />
 			<Item Name="Columns.OWCCountry.Caption" Value="Country" />
 			<Item Name="Columns.OWCDealerCode.Caption" Value="Dealer Code" />
+			<Item Name="Columns.OWCDealerCodes.Caption" Value="DealerCodes" />
 			<Item Name="Columns.OWCDealerName.Caption" Value="Dealer Name" />
 			<Item Name="Columns.OWCDealerPACode.Caption" Value="Dealer PA Code" />
 			<Item Name="Columns.OWCPartNumber.Caption" Value="Part Number" />

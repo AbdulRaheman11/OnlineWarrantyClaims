@@ -12,6 +12,11 @@
         "PackageVersion": "7.8.0",
         "Name": "CrtCore",
         "Type": 1
+      },
+      {
+        "UId": "23c74eee-1f50-4940-be27-d65cb5436c02",
+        "Name": "OWCCrtCustomer360App_xyvxxj3",
+        "Type": 1
       }
     ]
   }

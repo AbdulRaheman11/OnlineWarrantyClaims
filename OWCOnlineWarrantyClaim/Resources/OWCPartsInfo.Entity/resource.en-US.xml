@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Parts Info" />
+			<Item Name="Columns.OWCAmount.Caption" Value="Amount" />
+			<Item Name="Columns.OWCCasual.Caption" Value="Casual" />
+			<Item Name="Columns.OWCCasualCheck.Caption" Value="Casual" />
+			<Item Name="Columns.OWCDescription.Caption" Value="Description" />
+			<Item Name="Columns.OWCInvoiceNumber.Caption" Value="Invoice No." />
+			<Item Name="Columns.OWCMarkUp.Caption" Value="MarkUp" />
+			<Item Name="Columns.OWCPartNumber.Caption" Value="Part Number" />
+			<Item Name="Columns.OWCPartsList.Caption" Value="Parts List" />
+			<Item Name="Columns.OWCQuantity.Caption" Value="Quantity" />
+			<Item Name="Columns.OWCRepairLine.Caption" Value="RepairLine" />
+			<Item Name="Columns.OWCRepairOrder.Caption" Value="Repair Order" />
+			<Item Name="Columns.OWCUnitPrice.Caption" Value="Unit Price" />
+		</Items>
+	</Group>
+</Resources>

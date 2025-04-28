@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="OWCOnlineWarrantyClaim" />
+			<Item Name="Columns.OWCContact.Caption" Value="Contact" />
 			<Item Name="Columns.OWCName.Caption" Value="Name" />
 		</Items>
 	</Group>

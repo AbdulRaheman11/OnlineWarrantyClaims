@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9570d710-0959-4df0-88d7-b456f76da6c0",
+    "Name": "OWCROPartsInfoPage",
+    "ModifiedOnUtc": "\/Date(1745751834000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "RO Parts Info",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Active.Caption" Value="活动操作" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Author.Caption" Value="创建者" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Contact.Caption" Value="收款人" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Description.Caption" Value="通知面板" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.IsListSubjectReminds.Caption" Value="对对象使用多个通知" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.IsSingleReminder.Caption" Value="单个提醒" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.IsSubjectDelete.Caption" Value="通知记录已删除" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.NotificationType.Caption" Value="通知设置" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.PopupTitle.Caption" Value="PopupTitle" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.RemindTime.Caption" Value="通知设置" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Source.Caption" Value="对象中的收件人角色" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SubjectPrimaryColumnValue.Caption" Value="通知面板" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SysEntitySchema.Caption" Value="通知包含记录的对象" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Active.Caption" Value="活动操作" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Author.Caption" Value="创建者" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Contact.Caption" Value="收款人" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Description.Caption" Value="通知面板" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.IsListSubjectReminds.Caption" Value="对对象使用多个通知" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.IsSingleReminder.Caption" Value="单个提醒" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.IsSubjectDelete.Caption" Value="通知记录已删除" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.NotificationType.Caption" Value="通知设置" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.PopupTitle.Caption" Value="PopupTitle" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.RemindTime.Caption" Value="通知设置" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Source.Caption" Value="对象中的收件人角色" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SubjectPrimaryColumnValue.Caption" Value="通知面板" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SysEntitySchema.Caption" Value="通知包含记录的对象" />
+		</Items>
+	</Group>
+</Resources>

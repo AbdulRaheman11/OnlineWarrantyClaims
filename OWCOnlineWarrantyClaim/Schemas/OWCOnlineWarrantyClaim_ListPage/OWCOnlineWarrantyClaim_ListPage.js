@@ -3,6 +3,47 @@ define("OWCOnlineWarrantyClaim_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, fu
 		viewConfigDiff: /**SCHEMA_VIEW_CONFIG_DIFF*/[
 			{
 				"operation": "merge",
+				"name": "AddButton",
+				"values": {
+					"clicked": {
+						"request": "crt.CreateRecordRequest",
+						"params": {
+							"entityName": "Contact",
+							"defaultValues": [
+								{
+									"attributeName": "Name",
+									"value": "$OWCContactName"
+								}
+							]
+						}
+					},
+					"caption": "#ResourceString(AddButton_caption)#",
+					"size": "large",
+					"visible": true,
+					"clickMode": "default"
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "MenuItem_ImportFromExcel",
+				"values": {
+					"clicked": {
+						"request": "crt.ImportDataRequest",
+						"params": {
+							"entitySchemaName": "OWCOnlineWarrantyClaim"
+						}
+					}
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "FolderTree",
+				"values": {
+					"rootSchemaName": "OWCOnlineWarrantyClaim"
+				}
+			},
+			{
+				"operation": "merge",
 				"name": "DataTable",
 				"values": {
 					"columns": [
@@ -23,32 +64,25 @@ define("OWCOnlineWarrantyClaim_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, fu
 							"code": "PDS_CreatedBy",
 							"caption": "#ResourceString(PDS_CreatedBy)#",
 							"dataValueType": 10
-						},
-					]
-				}
-			},
-			{
-				"operation": "merge",
-				"name": "MenuItem_ImportFromExcel",
-				"values": {
-					"clicked": {
-						"request": "crt.ImportDataRequest",
-						"params": {
-							"entitySchemaName": "OWCOnlineWarrantyClaim"
 						}
-					}
-				}
-			},
-			{
-				"operation": "merge",
-				"name": "FolderTree",
-				"values": {
-					"sourceSchemaName": "FolderTree",
-					"rootSchemaName": "OWCOnlineWarrantyClaim"
+					]
 				}
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
 		viewModelConfigDiff: /**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/[
+			{
+				"operation": "merge",
+				"path": [
+					"attributes"
+				],
+				"values": {
+					"OWCContactName": {
+						"modelConfig": {
+							"path": "OWCOnlineWarrantyClaimDS.OWCContactName"
+						}
+					}
+				}
+			},
 			{
 				"operation": "merge",
 				"path": [
@@ -77,6 +111,34 @@ define("OWCOnlineWarrantyClaim_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, fu
 			}
 		]/**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/,
 		modelConfigDiff: /**SCHEMA_MODEL_CONFIG_DIFF*/[
+			{
+				"operation": "merge",
+				"path": [],
+				"values": {
+					"primaryDataSourceName": "OWCOnlineWarrantyClaimDS"
+				}
+			},
+			{
+				"operation": "merge",
+				"path": [
+					"dataSources"
+				],
+				"values": {
+					"OWCOnlineWarrantyClaimDS": {
+						"type": "crt.EntityDataSource",
+						"scope": "page",
+						"config": {
+							"entitySchemaName": "OWCOnlineWarrantyClaim",
+							"attributes": {
+								"OWCContactName": {
+									"path": "OWCContact.Name",
+									"type": "ForwardReference"
+								}
+							}
+						}
+					}
+				}
+			},
 			{
 				"operation": "merge",
 				"path": [

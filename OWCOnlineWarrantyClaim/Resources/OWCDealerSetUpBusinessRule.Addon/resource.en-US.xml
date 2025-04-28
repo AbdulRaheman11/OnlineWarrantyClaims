@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.2cc6240b-117e-a8ae-afaf-ae6b3409ef88.Caption" Value="ChildRule-9b1d2f45-8b00-5bdd-e9f4-1e77585c0330-PopulateValue" />
+			<Item Name="AddonConfig.Rules.9b1d2f45-8b00-5bdd-e9f4-1e77585c0330.Caption" Value="Apply filter: DealerCodes" />
+			<Item Name="AddonConfig.Rules.b3d93d4e-3777-203a-1624-6a4b255a8a21.Caption" Value="ChildRule-9b1d2f45-8b00-5bdd-e9f4-1e77585c0330-ClearValue" />
+			<Item Name="Caption" Value="Dealer SetUp (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

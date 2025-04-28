@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CancelButton_caption.Value" Value="Avbryt" />
+			<Item Name="LocalizableStrings.CloseButton_caption.Value" Value="Stäng" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Spara" />
+		</Items>
+	</Group>
+</Resources>

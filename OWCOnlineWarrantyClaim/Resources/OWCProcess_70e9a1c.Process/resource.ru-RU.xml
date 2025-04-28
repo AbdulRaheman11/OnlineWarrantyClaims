@@ -9,9 +9,11 @@
 			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
 			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.DisplayValue" Value="true" />
 			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Account.Caption" Value="Контрагент" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityPriority.Caption" Value="Приоритет" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityResult.Caption" Value="Результат активности" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.Caption" Value="Модуль" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Contact.Caption" Value="Контакт" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CreateActivity.Caption" Value="Создать активность" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачи" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Duration.Caption" Value="Длительность" />
@@ -23,6 +25,8 @@
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsRunning.Caption" Value="Выполняется" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.Caption" Value="Модуль" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OWCOWCDealerSetUp.Caption" Value="Базовый объект" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.Caption" Value="Ответственный" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.PressedButtonCode.Caption" Value="Код нажатой кнопки" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Recommendation.Caption" Value="Рекомендация" />

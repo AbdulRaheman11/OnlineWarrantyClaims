@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "15930e79-5e96-47b5-aa3b-7421b9aaac08",
+    "Name": "ContactRelatedPage",
+    "ModifiedOnUtc": "\/Date(1745743934000)\/",
+    "Parent": {
+      "UId": "f310d156-506a-439c-8e26-2219307ff51b",
+      "Name": "ContactRelatedPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Contact (Page settings)",
+    "DependsOn": []
+  }
+}

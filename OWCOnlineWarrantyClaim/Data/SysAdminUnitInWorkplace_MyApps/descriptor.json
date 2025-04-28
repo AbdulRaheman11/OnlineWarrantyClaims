@@ -10,13 +10,6 @@
     },
     "Columns": [
       {
-        "ColumnUId": "b96bb4ca-a133-44f1-aa7d-24495d89e278",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "SysAdminUnit",
-        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
-      },
-      {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
         "IsKey": true,
@@ -28,6 +21,13 @@
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "SysWorkplace",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "b96bb4ca-a133-44f1-aa7d-24495d89e278",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysAdminUnit",
         "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
       }
     ]

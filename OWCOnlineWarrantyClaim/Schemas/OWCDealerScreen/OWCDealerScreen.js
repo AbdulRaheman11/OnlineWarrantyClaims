@@ -36,6 +36,14 @@ define("OWCDealerScreen", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_
 				}
 			},
 			{
+				"operation": "merge",
+				"name": "ProgressBar",
+				"values": {
+					"saveOnChange": true,
+					"visible": true
+				}
+			},
+			{
 				"operation": "remove",
 				"name": "SideContainer"
 			},
@@ -109,7 +117,7 @@ define("OWCDealerScreen", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_
 			},
 			{
 				"operation": "insert",
-				"name": "Input_p4p4g2c",
+				"name": "ComboBox_Applicant",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -117,99 +125,21 @@ define("OWCDealerScreen", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_
 						"colSpan": 1,
 						"rowSpan": 1
 					},
-					"type": "crt.Input",
-					"multiline": false,
-					"label": "$Resources.Strings.OWCDealerSetUpDS_OWCDealerName_ljj3x8k",
-					"labelPosition": "auto",
-					"control": "$OWCDealerSetUpDS_OWCDealerName_ljj3x8k"
-				},
-				"parentName": "GeneralInfoTabContainer",
-				"propertyName": "items",
-				"index": 0
-			},
-			{
-				"operation": "insert",
-				"name": "Input_m71jolj",
-				"values": {
-					"layoutConfig": {
-						"column": 2,
-						"row": 1,
-						"colSpan": 1,
-						"rowSpan": 1
-					},
-					"type": "crt.Input",
-					"multiline": false,
-					"label": "$Resources.Strings.OWCDealerSetUpDS_OWCDealerCode_t01zytf",
-					"labelPosition": "auto",
-					"control": "$OWCDealerSetUpDS_OWCDealerCode_t01zytf"
-				},
-				"parentName": "GeneralInfoTabContainer",
-				"propertyName": "items",
-				"index": 1
-			},
-			{
-				"operation": "insert",
-				"name": "Input_p6bdj1o",
-				"values": {
-					"layoutConfig": {
-						"column": 3,
-						"row": 1,
-						"colSpan": 1,
-						"rowSpan": 1
-					},
-					"type": "crt.Input",
-					"multiline": false,
-					"label": "$Resources.Strings.OWCDealerSetUpDS_OWCSuffix_ky6042s",
-					"labelPosition": "auto",
-					"control": "$OWCDealerSetUpDS_OWCSuffix_ky6042s"
-				},
-				"parentName": "GeneralInfoTabContainer",
-				"propertyName": "items",
-				"index": 2
-			},
-			{
-				"operation": "insert",
-				"name": "Country",
-				"values": {
-					"layoutConfig": {
-						"column": 4,
-						"row": 1,
-						"colSpan": 1,
-						"rowSpan": 1
-					},
 					"type": "crt.ComboBox",
-					"label": "$Resources.Strings.OWCDealerSetUpDS_OWCCountry_u1h3k91",
+					"label": "$Resources.Strings.OWCDealerSetUpDS_OWCApplicant_gtnvs9g",
 					"labelPosition": "auto",
-					"control": "$OWCDealerSetUpDS_OWCCountry_u1h3k91",
+					"control": "$OWCDealerSetUpDS_OWCApplicant_gtnvs9g",
 					"listActions": [],
 					"showValueAsLink": true,
 					"controlActions": [],
 					"visible": true,
-					"readonly": false,
+					"readonly": true,
 					"placeholder": "",
 					"tooltip": "",
-					"valueDetails": "$ComboBox_1sdg4ar_ValueDetails",
-					"secondaryDisplayValue": null
+					"valueDetails": null
 				},
 				"parentName": "GeneralInfoTabContainer",
 				"propertyName": "items",
-				"index": 3
-			},
-			{
-				"operation": "insert",
-				"name": "addRecord_dprilhg",
-				"values": {
-					"code": "addRecord",
-					"type": "crt.ComboboxSearchTextAction",
-					"icon": "combobox-add-new",
-					"caption": "#ResourceString(addRecord_dprilhg_caption)#",
-					"clicked": {
-						"request": "crt.CreateRecordFromLookupRequest",
-						"params": {}
-					}
-				},
-				"parentName": "Country",
-				"propertyName": "listActions",
 				"index": 0
 			},
 			{
@@ -252,29 +182,9 @@ define("OWCDealerScreen", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_
 					"attributes"
 				],
 				"values": {
-					"OWCDealerSetUpDS_OWCDealerName_ljj3x8k": {
+					"OWCDealerSetUpDS_OWCApplicant_gtnvs9g": {
 						"modelConfig": {
-							"path": "OWCDealerSetUpDS.OWCDealerName"
-						}
-					},
-					"OWCDealerSetUpDS_OWCDealerCode_t01zytf": {
-						"modelConfig": {
-							"path": "OWCDealerSetUpDS.OWCDealerCode"
-						}
-					},
-					"OWCDealerSetUpDS_OWCSuffix_ky6042s": {
-						"modelConfig": {
-							"path": "OWCDealerSetUpDS.OWCSuffix"
-						}
-					},
-					"OWCDealerSetUpDS_OWCCountry_u1h3k91": {
-						"modelConfig": {
-							"path": "OWCDealerSetUpDS.OWCCountry"
-						}
-					},
-					"ComboBox_1sdg4ar_ValueDetails": {
-						"modelConfig": {
-							"path": "OWCDealerSetUpDS.OWCCountryName"
+							"path": "OWCDealerSetUpDS.OWCApplicant"
 						}
 					}
 				}
@@ -302,6 +212,14 @@ define("OWCDealerScreen", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_
 							"attributes": {
 								"OWCCountryName": {
 									"path": "OWCCountry.Name",
+									"type": "ForwardReference"
+								},
+								"OWCContactOWCDealerCodeDescription_z9c7i1s": {
+									"path": "OWCContact.OWCDealerCode.Description",
+									"type": "ForwardReference"
+								},
+								"OWCContactCountryName_a98c3mx": {
+									"path": "OWCContact.Country.Name",
 									"type": "ForwardReference"
 								}
 							}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e1fd218b-6d75-4436-bc67-7acd678b1432",
+    "Name": "OWCClaim_ListPage",
+    "ModifiedOnUtc": "\/Date(1745829997000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Claim list page"
+  }
+}

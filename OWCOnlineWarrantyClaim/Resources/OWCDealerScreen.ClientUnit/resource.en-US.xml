@@ -3,8 +3,13 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Dealer Screen" />
-			<Item Name="LocalizableStrings.addRecord_dprilhg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oqi8u3i_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_zwha9f9_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Dealer Information-Repair Order" />
+			<Item Name="LocalizableStrings.Input_12qsloo_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_1r1735f_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_93sjrzd_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_s328z7f_label.Value" Value="Text" />
 			<Item Name="LocalizableStrings.Label_b7ejkgn_caption.Value" Value="Dealer Information" />
 			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Dealer Information" />
 			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Next" />

@@ -1,0 +1,153 @@
+= MetaData.Schema.UId "dc4f6252-e748-4f71-9ec2-7f358ad0663d"
+= MetaData.Schema.A2 "OWCPartsInfo"
+= MetaData.Schema.A5 "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6"
+= MetaData.Schema.B6 "8bc48455-e0b8-4457-b8f3-eb7432c020eb"
+= MetaData.Schema.B8 "8.2.3.1351"
+= MetaData.Schema.EG1.UId "57a71216-b76d-43ae-aab4-810a29afa685"
+= MetaData.Schema.EG1.A2 "OWCEntity_7a5e701EventsProcess"
+= MetaData.Schema.EG1.A5 "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6"
++ MetaData.Schema.EG1.B8 "8.2.3.1351"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.JC1 []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "3896ea00-9ef1-eca0-aaf2-2b4223ae4481",
+  "A2": "OWCInvoiceNumber",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "0b2bcbab-f931-120a-1276-723b9d9b9f9f",
+  "A2": "OWCUnitPrice",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "29ae9f24-d5fe-3a62-11e3-da1daf7cffb4",
+  "A2": "OWCQuantity",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "95079dfa-6ff0-4202-fa8c-c026e02c401c",
+  "A2": "OWCDescription",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "05a116c2-9fa4-8c74-7dd8-2babda68ec2f",
+  "A2": "OWCPartNumber",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "31f3a4de-d336-01ac-9161-3225311e459d",
+  "A2": "OWCCasual",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "2cb8d442-c8c8-2344-f90a-f0340e832477",
+  "A2": "OWCRepairLine",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "1b9defe1-d399-4b9f-99d5-61a758d12e7f",
+  "E6": true,
+  "E20": true,
+  "E17": "OWCRepairLineId"
+}
++ MetaData.Schema.D2 {
+  "UId": "cb7b8da3-8732-deb7-3264-c13cde9d0e7a",
+  "A2": "OWCCasualCheck",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "efe844c2-a08c-6155-57db-f0f4e3cfbb48",
+  "A2": "OWCPartsList",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "0a90cec4-d90f-4545-a0c0-e3059edd0bdc",
+  "E6": true,
+  "E20": true,
+  "E17": "OWCPartsListId",
+  "E18": "OWCPartsListName"
+}
++ MetaData.Schema.D2 {
+  "UId": "58f06b04-d3ad-a40b-750a-49370ec220d6",
+  "A2": "OWCMarkUp",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "14087c92-506e-dced-ea05-2122e649077c",
+  "A2": "OWCAmount",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "498cf2b0-002d-a950-e141-f6d3b007413f",
+  "A2": "OWCRepairOrder",
+  "A3": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A4": "dc4f6252-e748-4f71-9ec2-7f358ad0663d",
+  "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "4d451cf1-eae5-4ead-8b21-551a6894525c",
+  "E6": true,
+  "E20": true,
+  "E17": "OWCRepairOrderId",
+  "E18": "OWCRepairOrderOWCRepairOrderNumber"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","3896ea00-9ef1-eca0-aaf2-2b4223ae4481","0b2bcbab-f931-120a-1276-723b9d9b9f9f","29ae9f24-d5fe-3a62-11e3-da1daf7cffb4","95079dfa-6ff0-4202-fa8c-c026e02c401c","05a116c2-9fa4-8c74-7dd8-2babda68ec2f","31f3a4de-d336-01ac-9161-3225311e459d","2cb8d442-c8c8-2344-f90a-f0340e832477","cb7b8da3-8732-deb7-3264-c13cde9d0e7a","efe844c2-a08c-6155-57db-f0f4e3cfbb48","58f06b04-d3ad-a40b-750a-49370ec220d6","14087c92-506e-dced-ea05-2122e649077c","498cf2b0-002d-a950-e141-f6d3b007413f"]
+= MetaData.Schema.D20.A2 "OWCPartsInfoEvents"
+= MetaData.Schema.D36.A3 "dc4f6252-e748-4f71-9ec2-7f358ad0663d"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

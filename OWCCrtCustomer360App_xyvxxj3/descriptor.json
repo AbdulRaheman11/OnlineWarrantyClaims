@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "23c74eee-1f50-4940-be27-d65cb5436c02",
+    "Name": "OWCCrtCustomer360App_xyvxxj3",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1745508994000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/OWCCrtCustomer360App_xyvxxj3.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6ac835ce-9e3f-467c-96e8-0b12d2a35f55",
+    "Name": "OWCCountryPartsAddPage",
+    "ModifiedOnUtc": "\/Date(1745476538000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Country Parts Add Page",
+    "DependsOn": []
+  }
+}

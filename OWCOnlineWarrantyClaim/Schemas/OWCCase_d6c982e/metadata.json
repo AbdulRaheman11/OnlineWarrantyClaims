@@ -1,0 +1,69 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "DcmSchemaManager",
+      "UId": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+      "A2": "OWCCase_d6c982e",
+      "A5": "14909bdb-b61c-49ac-b859-2c7e1f3c24d6",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "8bc48455-e0b8-4457-b8f3-eb7432c020eb",
+      "B8": "8.2.2.1870",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "51b280eb-d8a3-4932-81b9-ef61a0877aab",
+      "IJ10": true,
+      "EntitySchemaUId": "bcfb6cee-0091-4593-a785-1d0f0a8fffbb",
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+        "A4": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "Stages": [
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "c3c58012-ecc3-4526-87aa-8e5f44aae3b6",
+          "A2": "Stage1",
+          "A3": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+          "A4": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+          "A5": "8bc48455-e0b8-4457-b8f3-eb7432c020eb",
+          "Color": "#54AA4D",
+          "StageRecordId": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "8b24e6e1-1fc2-48bc-bf30-12cde94828bf",
+          "A2": "Stage2",
+          "A3": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+          "A4": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+          "A5": "8bc48455-e0b8-4457-b8f3-eb7432c020eb",
+          "Color": "#54AA4D",
+          "StageRecordId": "c4ed336c-3e9b-40fe-8b82-5632476472b4",
+          "Elements": []
+        }
+      ],
+      "Transitions": [],
+      "StageConnections": {
+        "Connections": [
+          {
+            "Source": "c3c58012-ecc3-4526-87aa-8e5f44aae3b6",
+            "Target": "8b24e6e1-1fc2-48bc-bf30-12cde94828bf"
+          }
+        ]
+      },
+      "StageColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+      "Filters": "{\"className\":\"Terrasoft.FilterGroup\",\"items\":{\"e281aab6-f150-1ff1-77f9-202359933edd\":{\"className\":\"Terrasoft.InFilter\",\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"className\":\"Terrasoft.ColumnExpression\",\"expressionType\":0,\"columnPath\":\"OWCCountry\"},\"isAggregative\":false,\"key\":\"e281aab6-f150-1ff1-77f9-202359933edd\",\"dataValueType\":10,\"leftExpressionCaption\":\"Country\",\"referenceSchemaName\":\"OWCCountrySetUp\",\"rightExpressions\":[{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Australia\",\"Id\":\"35c7d01e-d456-470e-a7e2-f104cbdaa086\",\"value\":\"35c7d01e-d456-470e-a7e2-f104cbdaa086\",\"displayValue\":\"Australia\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Canada\",\"Id\":\"9f58370b-a1f6-4390-8ffc-170a0dc64aef\",\"value\":\"9f58370b-a1f6-4390-8ffc-170a0dc64aef\",\"displayValue\":\"Canada\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"France\",\"Id\":\"fe641c88-d5a5-4201-a5df-f6f2f514508f\",\"value\":\"fe641c88-d5a5-4201-a5df-f6f2f514508f\",\"displayValue\":\"France\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Germany\",\"Id\":\"fa17721b-1648-4ee8-bf6c-56c5a1398a44\",\"value\":\"fa17721b-1648-4ee8-bf6c-56c5a1398a44\",\"displayValue\":\"Germany\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Israel\",\"Id\":\"44396f75-357a-4a57-9191-36dac813d050\",\"value\":\"44396f75-357a-4a57-9191-36dac813d050\",\"displayValue\":\"Israel\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Italy\",\"Id\":\"67133500-bcde-4007-8e88-9258753484ef\",\"value\":\"67133500-bcde-4007-8e88-9258753484ef\",\"displayValue\":\"Italy\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Lebanon\",\"Id\":\"ec9335a0-de90-4efe-b05d-8090bc10e6ad\",\"value\":\"ec9335a0-de90-4efe-b05d-8090bc10e6ad\",\"displayValue\":\"Lebanon\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Mexico\",\"Id\":\"7631314a-7f0d-4961-9546-888a5b830765\",\"value\":\"7631314a-7f0d-4961-9546-888a5b830765\",\"displayValue\":\"Mexico\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Saudi Arabia\",\"Id\":\"16fd54be-ea50-4dd5-b695-4b7a02e138b0\",\"value\":\"16fd54be-ea50-4dd5-b695-4b7a02e138b0\",\"displayValue\":\"Saudi Arabia\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Netherlands\",\"Id\":\"6ca04200-70f2-4c12-9ee0-3e0952e47813\",\"value\":\"6ca04200-70f2-4c12-9ee0-3e0952e47813\",\"displayValue\":\"Netherlands\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"United States of America\",\"Id\":\"679a2e31-2999-4443-be48-e8f697d28397\",\"value\":\"679a2e31-2999-4443-be48-e8f697d28397\",\"displayValue\":\"United States of America\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"United Kingdom\",\"Id\":\"f62fa173-ca7b-4722-9bb1-5f6c10f4bd53\",\"value\":\"f62fa173-ca7b-4722-9bb1-5f6c10f4bd53\",\"displayValue\":\"United Kingdom\"}}},{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"OWCCountryName\":\"Spain\",\"Id\":\"02ea3b84-53d2-4df8-8876-4ff18f6a7c5a\",\"value\":\"02ea3b84-53d2-4df8-8876-4ff18f6a7c5a\",\"displayValue\":\"Spain\"}}}]}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"OWCDealerSetUp\",\"key\":\"\"}",
+      "SystemElements": []
+    }
+  }
+}

@@ -2,6 +2,7 @@
 <Resources Culture="id-ID">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Halaman Tab dengan Bilah Kemajuan" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

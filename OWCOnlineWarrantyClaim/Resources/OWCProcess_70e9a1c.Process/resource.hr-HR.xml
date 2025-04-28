@@ -2,7 +2,6 @@
 <Resources Culture="hr-HR">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Stranica s karticama i trakom napretka" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

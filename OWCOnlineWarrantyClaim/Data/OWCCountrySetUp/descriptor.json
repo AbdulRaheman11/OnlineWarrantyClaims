@@ -17,13 +17,6 @@
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
-        "ColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
-        "IsForceUpdate": true,
-        "IsKey": false,
-        "ColumnName": "OWCCountryCode",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
-      },
-      {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
         "IsKey": true,
@@ -35,6 +28,13 @@
         "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "OWCCountryName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "7d78b679-8eb1-384b-7c14-16c1600afa33",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "OWCCountryCode",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       }
     ]

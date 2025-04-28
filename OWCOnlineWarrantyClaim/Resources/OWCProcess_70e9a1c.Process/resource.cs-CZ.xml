@@ -2,7 +2,6 @@
 <Resources Culture="cs-CZ">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Tabbed Page with Progress Bar" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e9df25bf-afde-41bb-bb6f-1e519f138560",
+    "Name": "OWCROMainPage",
+    "ModifiedOnUtc": "\/Date(1745830345000)\/",
+    "Parent": {
+      "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
+      "Name": "PageWithTabsAndProgressBarTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "RO Main Page"
+  }
+}

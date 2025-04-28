@@ -2,7 +2,6 @@
 <Resources Culture="lv-LV">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Lapa ar cilnēm un progresa joslu" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

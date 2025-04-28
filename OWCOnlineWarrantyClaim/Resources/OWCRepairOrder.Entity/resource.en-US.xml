@@ -3,16 +3,37 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Repair Order" />
+			<Item Name="Columns.OWCApprovalCode1.Caption" Value="Approval Code 1" />
+			<Item Name="Columns.OWCApprovalCode2.Caption" Value="Approval Code 2" />
+			<Item Name="Columns.OWCClaimType.Caption" Value="Claim Type" />
+			<Item Name="Columns.OWCConditionCode.Caption" Value="Condition Code" />
 			<Item Name="Columns.OWCContractEndDate.Caption" Value="Contract End Date" />
+			<Item Name="Columns.OWCConvoyDeliveryDate.Caption" Value="Convoy Delivery Date" />
+			<Item Name="Columns.OWCCountryParts.Caption" Value="CountryParts" />
+			<Item Name="Columns.OWCCustomerComments.Caption" Value="Customer Comments" />
+			<Item Name="Columns.OWCCustomerConcernCode.Caption" Value="Customer Concern Code" />
+			<Item Name="Columns.OWCCustomerParticipation.Caption" Value="Customer Participation" />
+			<Item Name="Columns.OWCDealer.Caption" Value="Dealer" />
+			<Item Name="Columns.OWCDealerParticipation.Caption" Value="Dealer Participation" />
+			<Item Name="Columns.OWCEngineOperatingHoursAtRepairCompletion.Caption" Value="Engine Operating Hours At Repair Completion" />
 			<Item Name="Columns.OWCEngineOperatingHoursatROOpen.Caption" Value="Engine Operating Hours at RO Open" />
 			<Item Name="Columns.OWCLicenseState.Caption" Value="License State" />
+			<Item Name="Columns.OWCOdometerReadingatRepairCompletion.Caption" Value="Odometer Reading at Repair Completion" />
 			<Item Name="Columns.OWCOdometerReadingatROOpen.Caption" Value="Odometer Reading at RO Open" />
+			<Item Name="Columns.OWCPreDefinedRepairCode.Caption" Value="Pre-Defined Repair Code" />
+			<Item Name="Columns.OWCRepairLineCompletionDate.Caption" Value="Repair Line Completion Date" />
+			<Item Name="Columns.OWCRepairLineNumber.Caption" Value="Repair Line Number" />
 			<Item Name="Columns.OWCRepairOrderNumber.Caption" Value="Repair Order Number" />
 			<Item Name="Columns.OWCRepairOrderOpenDate.Caption" Value="Repair Order Open Date" />
 			<Item Name="Columns.OWCServiceAdvisorID.Caption" Value="Service Advisor ID" />
 			<Item Name="Columns.OWCSpecialUseVehicleDescription.Caption" Value="Special Use Vehicle Description" />
+			<Item Name="Columns.OWCStatus.Caption" Value="Status" />
+			<Item Name="Columns.OWCSubCode.Caption" Value="Sub Code" />
+			<Item Name="Columns.OWCTechnicianComments.Caption" Value="Technician Comments" />
 			<Item Name="Columns.OWCVehicle.Caption" Value="Vehicle" />
+			<Item Name="Columns.OWCVehicleName.Caption" Value="Vehicle Name" />
 			<Item Name="Columns.OWCVIN.Caption" Value="VIN" />
+			<Item Name="Columns.OWCVINNumber.Caption" Value="VIN Number" />
 		</Items>
 	</Group>
 </Resources>

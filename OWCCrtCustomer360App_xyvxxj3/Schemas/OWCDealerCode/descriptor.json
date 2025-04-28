@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fade19d9-7230-4af7-8445-a8adaf9a5c00",
+    "Name": "OWCDealerCode",
+    "ModifiedOnUtc": "\/Date(1745508997000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Dealer Code",
+    "DependsOn": []
+  }
+}

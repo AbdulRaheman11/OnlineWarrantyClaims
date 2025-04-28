@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RO Main Page" />
+			<Item Name="LocalizableStrings.addRecord_09xhhnc_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_esvrjr0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_p14p7go_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_uso8xv6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Label_esdqrzb_caption.Value" Value="Repair Order Details:" />
+			<Item Name="LocalizableStrings.Label_zdqp8ew_caption.Value" Value="Dealer Name:" />
+			<Item Name="LocalizableStrings.RepairLine_TabContainer_caption.Value" Value="Repair Line" />
+			<Item Name="LocalizableStrings.RepairOrder_TabContainer_caption.Value" Value="Repair Order" />
+		</Items>
+	</Group>
+</Resources>

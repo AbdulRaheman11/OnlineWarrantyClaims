@@ -8,8 +8,10 @@
 			<Item Name="Columns.OWCCarrierCode.Caption" Value="Carrier Code" />
 			<Item Name="Columns.OWCCarrierDeliveryDocumentNumber.Caption" Value="Carrier Delivery Document Number" />
 			<Item Name="Columns.OWCClaimType.Caption" Value="Claim Type" />
+			<Item Name="Columns.OWCClaimTypeList.Caption" Value="Claim Type" />
 			<Item Name="Columns.OWCConditionCode.Caption" Value="Condition Code" />
 			<Item Name="Columns.OWCConvoyDeliveryDate.Caption" Value="Convoy Delivery Date" />
+			<Item Name="Columns.OWCCustomerComments.Caption" Value="Customer Comments" />
 			<Item Name="Columns.OWCCustomerConcernCode.Caption" Value="Customer Concern Code" />
 			<Item Name="Columns.OWCCustomerParticipation.Caption" Value="Customer Participation" />
 			<Item Name="Columns.OWCDealerParticipation.Caption" Value="Dealer Participation" />
@@ -32,6 +34,7 @@
 			<Item Name="Columns.OWCRepairLineNumber.Caption" Value="Repair Line Number" />
 			<Item Name="Columns.OWCRepairOrderNumber.Caption" Value="Repair Order Number" />
 			<Item Name="Columns.OWCSubCode.Caption" Value="Sub Code" />
+			<Item Name="Columns.OWCTechnicianComments.Caption" Value="Technician Comments" />
 		</Items>
 	</Group>
 </Resources>

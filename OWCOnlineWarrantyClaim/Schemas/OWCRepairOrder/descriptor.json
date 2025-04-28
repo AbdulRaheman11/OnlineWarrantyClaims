@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "4d451cf1-eae5-4ead-8b21-551a6894525c",
     "Name": "OWCRepairOrder",
-    "ModifiedOnUtc": "\/Date(1745238147000)\/",
+    "ModifiedOnUtc": "\/Date(1745830234000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Repair Order",
-    "DependsOn": []
+    "Caption": "Repair Order"
   }
 }

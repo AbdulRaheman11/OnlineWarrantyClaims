@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "00240bb4-cc99-40ab-9a49-aa442466801a",
+    "Name": "OWCRepairLinePage",
+    "ModifiedOnUtc": "\/Date(1745751527000)\/",
+    "Parent": {
+      "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
+      "Name": "PageWithTabsAndProgressBarTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Repair Line Page",
+    "DependsOn": []
+  }
+}

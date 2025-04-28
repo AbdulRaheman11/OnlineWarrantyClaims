@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "88be4a24-ed6b-48dd-a780-e654198b1a98",
+    "Name": "OWCPage_4hj9rx8",
+    "ModifiedOnUtc": "\/Date(1745588236000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Parts Add page",
+    "DependsOn": []
+  }
+}

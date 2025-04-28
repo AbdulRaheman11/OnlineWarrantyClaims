@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab78e7e2-48f5-4695-9002-63e01aee382b",
+    "Name": "OWCVIN",
+    "ModifiedOnUtc": "\/Date(1745564824000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "VIN",
+    "DependsOn": []
+  }
+}

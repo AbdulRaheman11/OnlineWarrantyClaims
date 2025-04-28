@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "30af505f-a5c0-4bda-8cf4-f11b1d2bab30",
+    "Name": "OWCRepairOrderBusinessRule",
+    "ModifiedOnUtc": "\/Date(1745578756000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Repair Order (Business rules)",
+    "DependsOn": []
+  }
+}

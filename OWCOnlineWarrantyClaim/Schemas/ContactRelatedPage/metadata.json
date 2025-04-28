@@ -1,0 +1,28 @@
+= MetaData.Schema.UId "15930e79-5e96-47b5-aa3b-7421b9aaac08"
+= MetaData.Schema.A5 "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6"
+= MetaData.Schema.B6 "8bc48455-e0b8-4457-b8f3-eb7432c020eb"
++ MetaData.Schema.AD4.Pages {
+  "UId": "a882b6cd-adf8-8b18-5748-7d613ed4bfcb",
+  "PageSchemaUId": "e785a54d-7cc8-467f-9768-958ff8ad34d2",
+  "IsDefault": false,
+  "IsSspDefault": false,
+  "Actions": {
+    "Add": true
+  },
+  "Role": null,
+  "TypeColumnValue": null
+}
++ MetaData.Schema.AD4.Pages {
+  "UId": "3240db43-c339-369c-e898-f669024a5644",
+  "PageSchemaUId": "e3c49cdc-3dfd-4940-aa6f-1b880dc4bcbc",
+  "IsDefault": true,
+  "IsSspDefault": false,
+  "Actions": null,
+  "Role": null,
+  "TypeColumnValue": null
+}
+- MetaData.Schema.AD4.Pages.["d52d0301-8ba2-6252-419b-134e8bc98a76"]
+- MetaData.Schema.AD4.Pages.["4ed97d6f-e8a6-2236-3e65-3fb6cfd0dafe"]
+~ MetaData.Schema.AD4.Pages ["a882b6cd-adf8-8b18-5748-7d613ed4bfcb","3240db43-c339-369c-e898-f669024a5644"]
++ MetaData.Schema.B7 true
+= MetaData.Schema.AD5 "f310d156-506a-439c-8e26-2219307ff51b"

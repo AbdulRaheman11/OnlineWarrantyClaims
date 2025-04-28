@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ceb62610-be56-4382-ab3f-08eed88ba75a",
+    "Name": "OWCClaimType",
+    "ModifiedOnUtc": "\/Date(1745580751000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Claim Type",
+    "DependsOn": []
+  }
+}

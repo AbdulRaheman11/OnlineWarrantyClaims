@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6d9cc4be-2439-4c2a-9da4-662654cd6946",
+    "Name": "OWCCase_d6c982e",
+    "ModifiedOnUtc": "\/Date(1745324536000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Repair Process",
+    "DependsOn": []
+  }
+}

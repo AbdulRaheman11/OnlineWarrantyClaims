@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b34706ab-91b8-446d-b927-3ee2f3e43cd2",
+    "Name": "OWCPage_k3g3ip6",
+    "ModifiedOnUtc": "\/Date(1745750770000)\/",
+    "Parent": {
+      "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
+      "Name": "PageWithTabsAndProgressBarTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Parts Info Page_RL",
+    "DependsOn": []
+  }
+}

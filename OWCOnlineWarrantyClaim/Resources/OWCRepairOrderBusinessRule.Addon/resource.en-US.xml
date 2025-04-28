@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.09c398ae-e47f-9807-7f2b-f4c64af5c87d.Caption" Value="ChildRule-10d12e57-b337-b8b5-2143-be547a2f2217-ClearValue" />
+			<Item Name="AddonConfig.Rules.10d12e57-b337-b8b5-2143-be547a2f2217.Caption" Value="Apply filter: Vehicle Name" />
+			<Item Name="AddonConfig.Rules.d2e02100-fb38-faf3-a7d2-225300db1b22.Caption" Value="ChildRule-10d12e57-b337-b8b5-2143-be547a2f2217-PopulateValue" />
+			<Item Name="Caption" Value="Repair Order (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Vehicle Name" />
+			<Item Name="Columns.OWCVehicleDescription.Caption" Value="Vehicle Description" />
+			<Item Name="Columns.OWCVIN.Caption" Value="VIN" />
+		</Items>
+	</Group>
+</Resources>

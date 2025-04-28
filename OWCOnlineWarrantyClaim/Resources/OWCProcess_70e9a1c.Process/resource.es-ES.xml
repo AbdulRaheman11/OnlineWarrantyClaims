@@ -2,7 +2,6 @@
 <Resources Culture="es-ES">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Página con pestañas y barra de progreso" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

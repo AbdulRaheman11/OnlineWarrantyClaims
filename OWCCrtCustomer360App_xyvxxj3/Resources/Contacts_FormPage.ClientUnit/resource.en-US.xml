@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_448z3y5_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yvxn8m6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CountryCode_label.Value" Value="Country" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Dealer Information" />
+			<Item Name="LocalizableStrings.Input_uhyyms5_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Label_uz0auxi_caption.Value" Value="Dealer Information" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Dealer Information" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Next" />
+			<Item Name="LocalizableStrings.SetRecordRightsButton_caption.Value" Value="Set up access rights" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.OWCContact.Caption" Value="Contact" />
+			<Item Name="Columns.OWCDepartment.Caption" Value="Department" />
+			<Item Name="Columns.OWCSuffix.Caption" Value="Suffix" />
+		</Items>
+	</Group>
+</Resources>

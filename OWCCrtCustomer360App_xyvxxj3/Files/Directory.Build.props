@@ -1,0 +1,6 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/OWCCrtCustomer360App_xyvxxj3/Schemas/Contact/Contact.cs" Condition="Exists('$(PkgPath)/OWCCrtCustomer360App_xyvxxj3/Schemas/Contact/Contact.cs')" />
+		<Compile Include="$(PkgPath)/OWCCrtCustomer360App_xyvxxj3/Schemas/OWCDealerCode/OWCDealerCode.cs" Condition="Exists('$(PkgPath)/OWCCrtCustomer360App_xyvxxj3/Schemas/OWCDealerCode/OWCDealerCode.cs')" />
+	</ItemGroup>
+</Project>

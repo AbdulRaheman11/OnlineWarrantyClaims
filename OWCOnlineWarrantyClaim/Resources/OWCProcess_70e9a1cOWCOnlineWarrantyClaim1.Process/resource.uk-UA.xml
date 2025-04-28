@@ -2,6 +2,7 @@
 <Resources Culture="uk-UA">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Сторінка з вкладками та панеллю виконання" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

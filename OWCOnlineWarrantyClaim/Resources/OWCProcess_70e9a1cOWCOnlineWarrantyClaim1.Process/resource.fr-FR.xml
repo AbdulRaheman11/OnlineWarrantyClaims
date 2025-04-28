@@ -2,6 +2,7 @@
 <Resources Culture="fr-FR">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Page d'onglets avec barre de progression" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

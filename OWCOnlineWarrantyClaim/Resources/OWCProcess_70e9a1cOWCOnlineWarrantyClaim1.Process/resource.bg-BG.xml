@@ -2,6 +2,7 @@
 <Resources Culture="bg-BG">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Страница с раздели и лента за напредък" />
 			<Item Name="Caption" Value="To Run Repair Process" />
 		</Items>
 	</Group>

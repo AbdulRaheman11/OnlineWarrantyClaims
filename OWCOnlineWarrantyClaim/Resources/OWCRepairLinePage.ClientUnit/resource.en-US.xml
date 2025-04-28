@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Repair Line Page" />
+			<Item Name="LocalizableStrings.addRecord_jid153d_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_aalj0m3_caption.Value" Value="Cancel" />
+			<Item Name="LocalizableStrings.Close_RL_caption.Value" Value="Back" />
+			<Item Name="LocalizableStrings.Label_RepairLine_caption.Value" Value="Repair Line Information:" />
+			<Item Name="LocalizableStrings.Next_RL_caption.Value" Value="Next" />
+			<Item Name="LocalizableStrings.RO_ClaimTypeList_placeholder.Value" Value="Select Claim..." />
+			<Item Name="LocalizableStrings.RO_RepairLineCompletionDate_placeholder.Value" Value="Select Date..." />
+			<Item Name="LocalizableStrings.RO_RepairLineNumber_placeholder.Value" Value="Enter Number" />
+			<Item Name="LocalizableStrings.Save_RL_caption.Value" Value="Save" />
+			<Item Name="LocalizableStrings.SubCode_placeholder.Value" Value="Sub Code" />
+		</Items>
+	</Group>
+</Resources>

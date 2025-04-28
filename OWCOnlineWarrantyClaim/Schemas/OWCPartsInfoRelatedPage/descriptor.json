@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d47b9ce2-c12e-4ad9-8e0b-3d5bacf772ec",
+    "Name": "OWCPartsInfoRelatedPage",
+    "ModifiedOnUtc": "\/Date(1745587242000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Parts Info (Page settings)",
+    "DependsOn": []
+  }
+}

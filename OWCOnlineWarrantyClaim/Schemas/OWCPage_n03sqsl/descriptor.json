@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2a77b61-a6a5-4a18-b1b3-930072af4601",
+    "Name": "OWCPage_n03sqsl",
+    "ModifiedOnUtc": "\/Date(1745747736000)\/",
+    "Parent": {
+      "UId": "e3c49cdc-3dfd-4940-aa6f-1b880dc4bcbc",
+      "Name": "OWCPage_n03sqsl"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contacts Form Mini Page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,229 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "30af505f-a5c0-4bda-8cf4-f11b1d2bab30",
+      "A2": "OWCRepairOrderBusinessRule",
+      "A5": "c1cf4a0f-d8e0-448c-a2cc-5bac848250a6",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "8bc48455-e0b8-4457-b8f3-eb7432c020eb",
+      "B8": "8.2.3.1351",
+      "AD1": "4d451cf1-eae5-4ead-8b21-551a6894525c",
+      "AD2": "EntitySchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "10d12e57-b337-b8b5-2143-be547a2f2217",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "dcbc4fb0-1fc1-6110-c6fa-930900ca0bf7",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+                  "UId": "971ac318-0f6a-ee26-57e2-20bc5b0c585d",
+                  "BGC1": 1,
+                  "BGC2": [
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "297adda6-5a9d-82f1-e1c1-68a5b2fc5108",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "0330880f-6b14-7579-0cf7-593634c1a1aa",
+                        "BRE1": "Lookup",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "OWCVINNumber"
+                      },
+                      "BCO3": 1
+                    }
+                  ]
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionFilterLookup",
+                    "UId": "f50f6301-0c88-4414-b446-a5fb2bc43c80",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "19cdb623-9369-4b52-81cf-a3db1a97ac36"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "eb97f6f0-2197-4abb-873d-61743563fc1a"
+                    },
+                    "BSFL1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "937a41ec-e469-ad93-7eb3-60cff4b14501",
+                      "BRE1": "Lookup",
+                      "BRE3": "OWCVehicleName",
+                      "BVP1": "OWCVehicleName",
+                      "BVF1": "OWCVIN"
+                    },
+                    "BSFR1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "c1c35c67-7b08-490b-c75f-4bdb2a7ca046",
+                      "BRE1": "Lookup",
+                      "BRE3": "OWCVIN",
+                      "BVP1": "OWCVINNumber"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "e7d66cfd-1e50-a55f-c6bb-22c9794cda31",
+                "BRT1": "OWCVINNumber"
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "ecaff643-32d4-dd73-c30b-ad2185198784",
+                "BRT2": 2
+              }
+            ],
+            "BR3": "BusinessRule_e16df47"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "09c398ae-e47f-9807-7f2b-f4c64af5c87d",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "2f92fa44-b969-e33d-e78f-3100f6f138bd",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "b514ae75-3ed1-93e1-6d6d-ef6796213980",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "0897f412-b759-43c2-d834-7ff52eaf2085",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "OWCVINNumber"
+                  },
+                  "BCO2": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "9b67e973-4204-e598-5095-fd754dfd1ff2",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "OWCVehicleName.OWCVIN"
+                  },
+                  "BCO3": 3
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "091b8c79-7e20-ac36-f2eb-1bce1cd45e4c",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "82e438ab-6581-4ea2-b44e-49ed356bcd02"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "8df9cc0d-e4e2-48ad-8b56-c7d9b7994db6"
+                    },
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "eada5f00-7757-3982-b402-242b5790683e",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "06d62cec-3ea2-7b45-cc20-ccbc3f5d6630",
+                          "BRE1": "Lookup",
+                          "BRX1": "OWCVehicleName"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleEmptyValueExpression",
+                          "UId": "e3faf4e4-4c6c-c5fc-5abb-04426a45c451",
+                          "BRE1": "Lookup",
+                          "BVE1": "00000000-0000-0000-0000-000000000000"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "73133ed1-6222-b629-fe9a-e4ec97075a60",
+                "BRT1": "OWCVINNumber"
+              }
+            ],
+            "BR3": "Autogenerated_10d12e57-b337-b8b5-2143-be547a2f2217_ClearValue",
+            "BR4": false,
+            "BR5": "10d12e57-b337-b8b5-2143-be547a2f2217",
+            "BR6": "f50f6301-0c88-4414-b446-a5fb2bc43c80"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "d2e02100-fb38-faf3-a7d2-225300db1b22",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "b9268026-6558-c890-f884-d6b439a42e64",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "8b4e312d-35fc-238b-4b80-b591d3ea370c",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "651c9bd9-b9ea-ab58-c0af-3971c847a95a",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "OWCVehicleName"
+                  },
+                  "BCO3": 1
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "3cc01528-4e5a-99d3-b58c-92ff221b56dd",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "09bdd4a5-dd98-412e-9b24-d3a0ab148abd"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "7467af3a-2a77-4266-8164-f9551c9ff9e7"
+                    },
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "50a228e2-73f8-f33d-1746-d66753e163ba",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "d181f771-2f20-ba96-8f5c-008697dbe6d0",
+                          "BRX1": "OWCVINNumber"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "2ed4c60b-dd1c-1567-b70b-436faf648033",
+                          "BRE1": "Lookup",
+                          "BRE2": "AttributeValue",
+                          "BRE3": "OWCVIN",
+                          "BRX1": "OWCVehicleName.OWCVIN"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "a6e5df2e-56c4-9f34-39cb-414cb39cf8d5",
+                "BRT1": "OWCVehicleName"
+              }
+            ],
+            "BR3": "Autogenerated_10d12e57-b337-b8b5-2143-be547a2f2217_PopulateValue",
+            "BR5": "10d12e57-b337-b8b5-2143-be547a2f2217",
+            "BR6": "f50f6301-0c88-4414-b446-a5fb2bc43c80"
+          }
+        ]
+      }
+    }
+  }
+}

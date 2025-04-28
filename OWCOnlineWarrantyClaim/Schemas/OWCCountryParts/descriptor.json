@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "071f921f-de1f-47c4-b0cb-684a814aafe5",
+    "Name": "OWCCountryParts",
+    "ModifiedOnUtc": "\/Date(1745476549000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Country Parts",
+    "DependsOn": []
+  }
+}

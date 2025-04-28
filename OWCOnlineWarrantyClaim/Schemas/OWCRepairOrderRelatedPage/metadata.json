@@ -1,0 +1,44 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "eee12a16-a656-486c-9008-edcfb576fea7",
+      "A2": "OWCRepairOrderRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "8bc48455-e0b8-4457-b8f3-eb7432c020eb",
+      "B8": "0.0.0.0",
+      "AD1": "4d451cf1-eae5-4ead-8b21-551a6894525c",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "7ee5c44a-22d7-6008-492d-a7b3e6b39529",
+      "PageSchemaUId": "e9df25bf-afde-41bb-bb6f-1e519f138560",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": null,
+      "TypeColumnValue": null
+    },
+    {
+      "UId": "257f8993-a0b8-3c33-af8e-844924214abc",
+      "PageSchemaUId": "e9df25bf-afde-41bb-bb6f-1e519f138560",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": null,
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}
